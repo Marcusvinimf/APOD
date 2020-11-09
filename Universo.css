@@ -1,0 +1,60 @@
+body{
+    background-image: url("https://static6.depositphotos.com/1151061/650/v/450/depositphotos_6504973-stock-illustration-starry-sky.jpg");
+    /* background-size: 100%; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+}
+
+header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+h3 {
+    display: flex;
+    justify-content: center;
+}
+nav a{
+    display: inline-flex;
+    justify-content: space-around;
+    color: white;
+    font-size: 18px;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+button{
+    display: inline-flex;
+    width: 150px;
+}
+
+input{
+    display: inline-flex;
+    width: 150px;
+}
+
+
+img{
+    
+    height: 500px;
+    width: 650px;
+    
+}
+
+.logo-nasa{
+    width: 100px;
+    height: 90px;
+    padding-right: 55px;
+}
+
+
+p{
+    display: flex;
+    justify-content: center;
+    font-size: 22px;
+    color: wheat;
+}
+
