@@ -17,11 +17,16 @@ h3 {
     display: flex;
     justify-content: center;
 }
+
+h2{
+    background-color: crimson;
+}
+
 nav a{
     display: inline-flex;
     justify-content: space-around;
     color: white;
-    font-size: 18px;
+    font-size: 20px;
     padding-left: 12px;
     padding-right: 12px;
 }

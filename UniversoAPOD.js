@@ -116,8 +116,9 @@ class UserController
         let view = new UserView();
         view.render( user );
 
-        let removeBotao = busca.remove()
-        let removeInput = dt.remove()
+        // let removeBotao = busca.remove()
+        // let removeInput = dt.remove()
+        let removeh2 = alerta.remove()
     }
 }
 
