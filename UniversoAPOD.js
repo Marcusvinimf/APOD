@@ -124,4 +124,6 @@ class UserController
 
 let controller = new UserController();
 
-document.getElementById( "busca" ).addEventListener( "click", controller.adicionaUsuario );
+controller.adicionaUsuario()
+
+document.getElementById( "busca" ).addEventListener( "click", controller.adicionaUsuario ); //evento para chamar outros dias    
